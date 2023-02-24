@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier
+_commit: cc9dfa1
+_src_path: pypackage-template-fork
+add_me_as_contributor: true
+copyright_year: '2023'
+documentation: true
+email: 34j.95a2p@simplelogin.com
+full_name: 34j
+github_username: 34j
+initial_commit: true
+open_source_license: GNU General Public License v3
+open_with_vscode: true
+package_name: poigoe
+project_name: poigoe
+project_short_description: Python package for realtime vocoding
+project_slug: poigoe
+run_poetry_install: true
+setup_github: true
+setup_pre_commit: true
+setup_venv: true
+
