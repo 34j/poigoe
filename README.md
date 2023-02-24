@@ -40,6 +40,21 @@ Install this via pip (or your favourite package manager):
 pip install poigoe
 ```
 
+## Usage
+
+```shell
+poigoe -p 2.0
+```
+
+```shell
+poigoe --help
+Usage: poigoe [OPTIONS]
+
+Options:
+  -p, --pitch FLOAT  Pitch factor
+  --help             Show this message and exit.
+```
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
