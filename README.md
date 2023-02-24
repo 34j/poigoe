@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/pypi/l/poigoe.svg?style=flat-square" alt="License">
 </p>
 
-Python package for realtime vocoding
+Realtime voice pitch changer using praat.
 
 ## Installation
 
