@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "poigoe"
-version = "0.0.0"
+version = "0.1.0"
 description = "Python package for realtime vocoding"
 authors = ["34j <34j.95a2p@simplelogin.com>"]
 license = "GNU General Public License v3"
